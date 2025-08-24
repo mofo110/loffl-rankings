@@ -7,7 +7,7 @@ There are two parts to this app:
     2. Write an output JSON file `./data/output-org-chart.json`
 
 2. We then have to get the rankings.
-    1. Get weekly rankings from FantasyPros.com for each position
+    1. Get weekly rankings from [FantasyPros.com](https://www.fantasypros.com) for each position
     2. Match each position player with the org chart
     2. Write output JSON files `.data/rankings-[position].json`
 
