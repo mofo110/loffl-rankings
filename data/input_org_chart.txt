@@ -4,7 +4,7 @@ Hot Shots
 Go-Go's
  
 QB
-Burrows
+Burrow
 Cin
  
 QB
@@ -44,7 +44,7 @@ Chi
  
 WR
 Adams
-LV
+LAR
 TE
 Andrews
 Bal
@@ -375,7 +375,7 @@ Hill
 Mia
 TE
 Kelce
-Kc
+KC
  
 TE
 Bowers
@@ -454,7 +454,7 @@ Jacobs
 GB
  
 RB
-McCafffrey
+McCaffrey
 SF
 RB
 Achane
