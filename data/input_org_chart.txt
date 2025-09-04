@@ -1,309 +1,549 @@
-End Zone
-
 Hot Shots
  
-QB
+ 
+Go-Go's
  
 QB
-
-RB
- 
-RB
-
-RB
-
-RB
-
-WR
-
-WR
-
-WR
- 
-WR
-
-WR
- 
-WR
-
-TE
- 
-TE
-
-K
- 
-K
-
-Def
- 
-Def
-
-SpT
- 
-SpT
-
-T1
-
-T1
-
-T2
- 
-T2
-
-T3
- 
-T3
-
-Picks Remaining
-0 
- 
-Picks Remaining
-0
-
-Hawk Tuah
-  
-Capsters
+Burrows
+Cin
  
 QB
- 
-QB
-
+Nix
+Den
 RB
+Hall
+NYJ
  
 RB
-
+Henry
+Bal
 RB
-
+*Conner
+Ari
+ 
 RB
-
+Brown
+Cin
 WR
-
-WR
-
-WR
+Chase
+Cin
  
 WR
-
+Higgins
+Cin
 WR
+Collins
+Tex
  
 WR
-
+Thomas
+Jax
+WR
+Moore
+Chi
+ 
+WR
+Adams
+LV
 TE
+Andrews
+Bal
  
 TE
-
+Kincaid
+Buf
 K
+Elliot
+Phi
  
 K
-
+Boswell
+Pit
 Def
+Baltimore
+ 
  
 Def
-
-SpT
+Seattle
  
 SpT
-
+Detroit
+ 
+ 
+SpT
+San Francisco
+ 
 T1
-
+*Henderson RB
+NE
+ 
 T1
-
+Williams  QB
+Chi
 T2
+Stroud  QB
+Tex
  
 T2
-
+Benson  RB
+Ari
 T3
+Olave  WR
+NO
  
 T3
-
-Picks Remaining
-0 
+Mims  WR
+Den
+T4
+Engram  TE
+Den
+ 
+T4
+ 
+ 
  
 Picks Remaining
-0
-
-Vision 
+11
+ 
+ 
+Picks Remaining
+12
+Gogaroppolos
+ 
  
 Grumpy Grandpas
  
 QB
+Mayfield
+TB
  
 QB
-
+Hurts
+Phi
 RB
+Robinson
+Atl
  
 RB
-
+Cook
+Buf
 RB
-
+Irving
+TB
+ 
 RB
-
+Pacheco
+KC
 WR
-
-WR
-
-WR
+Brown
+Phi
  
 WR
-
+Nacua
+LAR
 WR
+Worthy
+KC
  
 WR
-
+Flowers
+Bal
+WR
+Pickens
+Dal
+ 
+WR
+Metcalf
+Pit
 TE
+Hockenson
+Min
  
 TE
-
+LaPorta
+Det
 K
+Bates
+Det
  
 K
-
+Bass
+Buf
 Def
+New England
+ 
  
 Def
-
-SpT
+Minnesota
  
 SpT
-
+NY Giants
+ 
+ 
+SpT
+Houston
+ 
 T1
-
+Fields  QB
+NYJ
+ 
 T1
-
+Lawrence  QB
+Jax
 T2
+Meyers  QR
+LV
  
 T2
-
+Mixon  RB
+Tex
 T3
  
+ 
+ 
 T3
-
-Picks Remaining
-0 
+ 
+ 
+T4
+ 
+ 
+ 
+T4
+ 
  
 Picks Remaining
-0
-
-Gogaropolos 
+13
  
-Manly Men
+Picks Remaining
+13
+Vision
+ 
+ 
+End Zone
  
 QB
+Jackson
+Bal
  
 QB
-
+Mahomes
+KC
 RB
+Montgomery
+Det
  
 RB
-
+Barkley
+Phi
 RB
-
+Taylor
+Ind
+ 
 RB
-
+Jeanty
+LV
 WR
-
-WR
-
-WR
+Smith
+Phi
  
 WR
-
+McConkey
+LAC
 WR
+Williams
+Det
  
 WR
-
+Evans
+TB
+WR
+Waddle
+Mia
+ 
+WR
+Harrison
+Ari
 TE
+Kraft
+GB
  
 TE
-
+Njoku
+Cle
 K
+Aubrey
+Dal
  
 K
-
+Dicker
+LAC
 Def
+Denver
+ 
  
 Def
-
-SpT
+Philadelphia
  
 SpT
-
+Baltimore
+ 
+ 
+SpT
+Philadelphia
+ 
 T1
-
+McCarthy  QB
+Min
+ 
 T1
-
+Herbert  QB
+LAC
 T2
+Kamara  RB
+NO
  
 T2
-
+Harvey  RB
+Den
 T3
+Jeudy  WR
+Cle
  
 T3
-
-Picks Remaining
-0 
+Ridley  WR
+Ten
+T4
+ 
+ 
+ 
+T4
+ 
+ 
  
 Picks Remaining
-0
-
-Go-Go's 
+12
+ 
+ 
+Picks Remaining
+12
+Hawk Tuah
+ 
  
 WFT
  
 QB
+Prescott
+Dal
  
 QB
-
+Purdy
+SF
 RB
+Gibbs
+Det
  
 RB
-
+Walker
+Sea
 RB
-
+Williams
+LAR
+ 
 RB
-
+Hampton
+LAC
 WR
-
-WR
-
-WR
+Nabers
+NYG
  
 WR
-
+Jefferson
+Min
 WR
+Smith-Njigba
+Sea
  
 WR
-
+Lamb
+Dal
+WR
+Sutton
+Den
+ 
+WR
+Hill
+Mia
 TE
+Kelce
+Kc
  
 TE
-
+Bowers
+LV
 K
+McPherson
+Cin
  
 K
-
+Lutz
+Den
 Def
+Green Bay
+ 
  
 Def
-
-SpT
+Pittsburgh
  
 SpT
-
+Green Bay
+ 
+ 
+SpT
+Pittsburgh
+ 
 T1
-
+Pollard  RB
+Ten
+ 
 T1
-
+Murray  QB
+Ari
+T2
+Rice  WR
+KC
+ 
 T2
  
+ 
+T3
+Love  QB
+GB
+ 
+T3
+ 
+ 
+T4
+ 
+ 
+ 
+T4
+ 
+ 
+ 
+Picks Remaining
+12
+ 
+ 
+Picks Remaining
+14
+Manly Men
+ 
+ 
+ 
+Capsters
+ 
+QB
+Allen
+Buf
+ 
+QB
+Daniels
+Was
+RB
+Jacobs
+GB
+ 
+RB
+McCafffrey
+SF
+RB
+Achane
+Mia
+ 
+RB
+Jones
+Min
+WR
+McLaurin
+Was
+ 
+WR
+St. Brown
+Det
+WR
+Pearsal
+SF
+ 
+WR
+London
+Atl
+WR
+Egbuka
+TB
+ 
+WR
+McMillan
+Car
+TE
+McBride
+Ari
+ 
+TE
+Kittle
+SF
+K
+Fairbairn
+Tex
+ 
+K
+Gay
+Was
+Def
+Houston
+ 
+ 
+Def
+Buffalo
+ 
+SpT
+Dallas
+ 
+ 
+SpT
+Denver
+ 
+T1
+Wilson  WR
+NYJ
+ 
+T1
+Goff  QB
+Det
 T2
-
+Hubbard  RB
+Car
+ 
+T2
+Robinson  RB
+SF
 T3
+Golden  WR
+GB
  
 T3
-
-Picks Remaining
-0 
+Samuel  WR
+Was
+T4
+ 
+ 
+ 
+T4
+ 
+ 
  
 Picks Remaining
-0
+12
+ 
+ 
+Picks Remaining
+12

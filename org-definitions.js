@@ -5,7 +5,7 @@ const ORG_NAMES = [
     "Capsters",
     "Vision",
     "Grumpy Grandpas",
-    "Gogaropolos",
+    "Gogaroppolos",
     "Manly Men",
     "Go-Go's",
     "WFT"
@@ -17,7 +17,8 @@ const SINGLE_PLAYER_PROPERTIES = [
     "K",
     "T1",
     "T2",
-    "T3"
+    "T3",
+    "T4"
 ];
 
 const MANY_PLAYER_PROPERTIES = [

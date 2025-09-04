@@ -9,6 +9,7 @@ class PropertyCounts {
     T1 = 0;
     T2 = 0;
     T3 = 0;
+    T4 = 0;
     PicksRemaining = 0;
 }
 
