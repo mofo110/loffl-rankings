@@ -167,8 +167,8 @@ Bates
 Det
  
 K
-Bass
-Buf
+Little
+Jax
 Def
 New England
  
@@ -202,7 +202,8 @@ T3
  
  
 T3
- 
+Bass K
+Buf
  
 T4
  
