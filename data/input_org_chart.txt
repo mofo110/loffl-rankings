@@ -4,7 +4,7 @@ Hot Shots
 Go-Go's
  
 QB
-Burrow
+Burrows
 Cin
  
 QB
@@ -44,7 +44,7 @@ Chi
  
 WR
 Adams
-LAR
+LV
 TE
 Andrews
 Bal
@@ -96,18 +96,18 @@ Mims  WR
 Den
 T4
 Engram  TE
-Den
+Dev
  
 T4
-Jennings WR
-SF 
+*Jennings  WR
+SF
  
 Picks Remaining
 11
  
  
 Picks Remaining
-12
+11
 Gogaroppolos
  
  
@@ -167,7 +167,7 @@ Bates
 Det
  
 K
-Little
+*Little
 Jax
 Def
 New England
@@ -202,9 +202,8 @@ T3
  
  
 T3
-Bass K
+*Bass  K
 Buf
- 
 T4
  
  
@@ -216,7 +215,7 @@ Picks Remaining
 13
  
 Picks Remaining
-13
+12
 Vision
  
  
@@ -455,7 +454,7 @@ Jacobs
 GB
  
 RB
-McCaffrey
+McCafffrey
 SF
 RB
 Achane
