@@ -44,7 +44,7 @@ Chi
  
 WR
 Adams
-LV
+LAR
 TE
 Andrews
 Bal
@@ -454,7 +454,7 @@ Jacobs
 GB
  
 RB
-McCafffrey
+McCaffrey
 SF
 RB
 Achane
