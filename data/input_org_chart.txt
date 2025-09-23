@@ -4,8 +4,8 @@ Hot Shots
 Go-Go's
  
 QB
-Burrows
-Cin
+*Stroud
+Tex
  
 QB
 Nix
@@ -18,8 +18,8 @@ RB
 Henry
 Bal
 RB
-*Conner
-Ari
+Etienne
+Jax
  
 RB
 Brown
@@ -74,15 +74,15 @@ SpT
 San Francisco
  
 T1
-*Henderson RB
+Henderson RB
 NE
  
 T1
 Williams  QB
 Chi
 T2
-Stroud  QB
-Tex
+*Burrow  QB
+Cin
  
 T2
 Benson  RB
@@ -99,7 +99,7 @@ Engram  TE
 Dev
  
 T4
-*Jennings  WR
+Jennings  WR
 SF
  
 Picks Remaining
@@ -107,7 +107,7 @@ Picks Remaining
  
  
 Picks Remaining
-11
+10
 Gogaroppolos
  
  
@@ -142,8 +142,8 @@ WR
 Nacua
 LAR
 WR
-Worthy
-KC
+Meyers
+LV
  
 WR
 Flowers
@@ -167,7 +167,7 @@ Bates
 Det
  
 K
-*Little
+Little
 Jax
 Def
 New England
@@ -191,8 +191,8 @@ T1
 Lawrence  QB
 Jax
 T2
-Meyers  QR
-LV
+Worthy WR
+KC
  
 T2
 Mixon  RB
@@ -202,7 +202,7 @@ T3
  
  
 T3
-*Bass  K
+Bass  K
 Buf
 T4
  
@@ -336,8 +336,8 @@ Prescott
 Dal
  
 QB
-Purdy
-SF
+Murray
+Ari
 RB
 Gibbs
 Det
@@ -364,8 +364,8 @@ Smith-Njigba
 Sea
  
 WR
-Lamb
-Dal
+Odunze
+Chi
 WR
 Sutton
 Den
@@ -406,14 +406,15 @@ Pollard  RB
 Ten
  
 T1
-Murray  QB
-Ari
+Purdy  QB
+SF
 T2
 Rice  WR
 KC
  
 T2
- 
+Lamb WR
+Dal
  
 T3
 Love  QB
@@ -435,7 +436,7 @@ Picks Remaining
  
  
 Picks Remaining
-14
+13
 Manly Men
  
  
@@ -447,8 +448,8 @@ Allen
 Buf
  
 QB
-Daniels
-Was
+*Goff
+Det
 RB
 Jacobs
 GB
@@ -489,8 +490,8 @@ McBride
 Ari
  
 TE
-Kittle
-SF
+*Johnson
+NO
 K
 Fairbairn
 Tex
@@ -517,8 +518,8 @@ Wilson  WR
 NYJ
  
 T1
-Goff  QB
-Det
+*Daniels QB
+Was
 T2
 Hubbard  RB
 Car
@@ -534,16 +535,16 @@ T3
 Samuel  WR
 Was
 T4
- 
- 
+Croskey-Merritt RB
+Was
  
 T4
+*Kittle  TE
+SF
  
+Picks Remaining
+11
  
  
 Picks Remaining
-12
- 
- 
-Picks Remaining
-12
+11
