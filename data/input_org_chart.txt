@@ -4,7 +4,7 @@ Hot Shots
 Go-Go's
  
 QB
-*Stroud
+Stroud
 Tex
  
 QB
@@ -22,15 +22,15 @@ Etienne
 Jax
  
 RB
-Brown
-Cin
+Benson
+Ari
 WR
 Chase
 Cin
  
 WR
-Higgins
-Cin
+Mims
+Den
 WR
 Collins
 Tex
@@ -81,19 +81,19 @@ T1
 Williams  QB
 Chi
 T2
-*Burrow  QB
+Burrow  QB
 Cin
  
 T2
-Benson  RB
-Ari
+Brown  RB
+Cin
 T3
 Olave  WR
 NO
  
 T3
-Mims  WR
-Den
+Higgins  WR
+Cin
 T4
 Engram  TE
 Dev
@@ -103,11 +103,11 @@ Jennings  WR
 SF
  
 Picks Remaining
-11
+10
  
  
 Picks Remaining
-10
+11
 Gogaroppolos
  
  
@@ -132,8 +132,8 @@ Irving
 TB
  
 RB
-Pacheco
-KC
+Mason
+Min
 WR
 Brown
 Phi
@@ -142,8 +142,8 @@ WR
 Nacua
 LAR
 WR
-Meyers
-LV
+*Worthy
+KC
  
 WR
 Flowers
@@ -153,8 +153,8 @@ Pickens
 Dal
  
 WR
-Metcalf
-Pit
+*Shakir
+Buf
 TE
 Hockenson
 Min
@@ -191,8 +191,8 @@ T1
 Lawrence  QB
 Jax
 T2
-Worthy WR
-KC
+*Meyers WR
+LV
  
 T2
 Mixon  RB
@@ -202,32 +202,32 @@ T3
  
  
 T3
-Bass  K
-Buf
+Pacheco  RB
+KC
 T4
  
  
  
 T4
- 
- 
+*Metcalf  WR
+Pit
 Picks Remaining
 13
  
 Picks Remaining
-12
+10
 Vision
  
  
 End Zone
  
 QB
-Jackson
-Bal
+*Stafford
+LAR
  
 QB
-Mahomes
-KC
+Herbert
+LAC
 RB
 Montgomery
 Det
@@ -254,8 +254,8 @@ Williams
 Det
  
 WR
-Evans
-TB
+*Ayomanor
+Ten
 WR
 Waddle
 Mia
@@ -296,8 +296,8 @@ McCarthy  QB
 Min
  
 T1
-Herbert  QB
-LAC
+Mahomes  QB
+KC
 T2
 Kamara  RB
 NO
@@ -310,22 +310,22 @@ Jeudy  WR
 Cle
  
 T3
-Ridley  WR
+Evans WR
+TB
+T4
+*Jackson  QB
+Bal
+ 
+T4
+*Ridley  WR
 Ten
-T4
  
- 
- 
-T4
- 
+Picks Remaining
+11
  
  
 Picks Remaining
-12
- 
- 
-Picks Remaining
-12
+11
 Hawk Tuah
  
  
@@ -336,7 +336,7 @@ Prescott
 Dal
  
 QB
-Murray
+*Murray
 Ari
 RB
 Gibbs
@@ -353,8 +353,8 @@ RB
 Hampton
 LAC
 WR
-Nabers
-NYG
+*Johnston
+LAC
  
 WR
 Jefferson
@@ -371,8 +371,8 @@ Sutton
 Den
  
 WR
-Hill
-Mia
+*Robinson
+SF
 TE
 Kelce
 KC
@@ -388,14 +388,14 @@ K
 Lutz
 Den
 Def
-Green Bay
+*Jacksonville
  
  
 Def
 Pittsburgh
  
 SpT
-Green Bay
+*Jacksonville
  
  
 SpT
@@ -406,15 +406,14 @@ Pollard  RB
 Ten
  
 T1
-Purdy  QB
+*Purdy  QB
 SF
 T2
 Rice  WR
 KC
  
 T2
-Lamb WR
-Dal
+Lamb  WR
  
 T3
 Love  QB
@@ -424,7 +423,7 @@ T3
  
  
 T4
- 
+*Green Bay Defense
  
  
 T4
@@ -432,11 +431,11 @@ T4
  
  
 Picks Remaining
-12
+9
  
  
 Picks Remaining
-13
+12
 Manly Men
  
  
@@ -448,7 +447,7 @@ Allen
 Buf
  
 QB
-*Goff
+Goff
 Det
 RB
 Jacobs
@@ -462,18 +461,18 @@ Achane
 Mia
  
 RB
-Jones
-Min
+*Skattabo
+NYG
 WR
-McLaurin
-Was
+Wilson
+NYJ
  
 WR
 St. Brown
 Det
 WR
-Pearsal
-SF
+*Allen
+LAC
  
 WR
 London
@@ -483,14 +482,14 @@ Egbuka
 TB
  
 WR
-McMillan
-Car
+*Samuel
+Was
 TE
 McBride
 Ari
  
 TE
-*Johnson
+Johnson
 NO
 K
 Fairbairn
@@ -514,37 +513,37 @@ SpT
 Denver
  
 T1
-Wilson  WR
-NYJ
+McLaurin  WR
+Was
  
 T1
-*Daniels QB
+Daniels QB
 Was
 T2
 Hubbard  RB
 Car
  
 T2
-Robinson  RB
-SF
+*Jones
+Min
 T3
-Golden  WR
-GB
+*Pearsall  WR
+SF
  
 T3
-Samuel  WR
-Was
+*McMillan
+Car
 T4
 Croskey-Merritt RB
 Was
  
 T4
-*Kittle  TE
+Kittle  TE
 SF
  
 Picks Remaining
-11
+10
  
  
 Picks Remaining
-11
+10
