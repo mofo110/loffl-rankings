@@ -8,21 +8,21 @@ Stroud
 Tex
  
 QB
-*Williams
+Williams
 Chi
 RB
 Hall
 NYJ
  
 RB
-*Brown
+Brown
 Cin
 RB
 Etienne
 Jax
  
 RB
-*Dowdle
+Dowdle
 Car
 WR
 Chase
@@ -46,7 +46,7 @@ WR
 Adams
 LAR
 TE
-*Ferguson
+Ferguson
 Dal
  
 TE
@@ -60,7 +60,7 @@ K
 Boswell
 Pit
 Def
-*Detroit
+Detroit
  
  
 Def
@@ -78,14 +78,14 @@ Henderson RB
 NE
  
 T1
-*Nix QB
+Nix QB
 Den
 T2
 Burrow  QB
 Cin
  
 T2
-*Henry  RB
+Henry  RB
 Bal
 T3
 Olave  WR
@@ -95,7 +95,7 @@ T3
 Higgins  WR
 Cin
 T4
-*Andrews  TE
+Andrews  TE
 Bal
  
 T4
@@ -125,22 +125,22 @@ Robinson
 Atl
  
 RB
-Cook
-Buf
+*Mason
+Min
 RB
-*White
+White
 TB
  
 RB
-*Pacheco
+Pacheco
 KC
 WR
 Brown
 Phi
  
 WR
-Nacua
-LAR
+*Doubs
+GB
 WR
 Worthy
 KC
@@ -153,7 +153,7 @@ Pickens
 Dal
  
 WR
-*Metcalf
+Metcalf
 Pit
 TE
 Hockenson
@@ -167,8 +167,8 @@ Bates
 Det
  
 K
-Little
-Jax
+*McLaughlin
+TB
 Def
 New England
  
@@ -195,38 +195,38 @@ Meyers WR
 LV
  
 T2
-*Mason RB
-Min
+*CookRB
+Buf
 T3
-*Irving  RB
+Irving  RB
 TB
  
 T3
-*Shakir  WR
+Shakir  WR
 Buf
 T4
  
  
  
 T4
- 
- 
+*Nacua  WR
+LAR
 Picks Remaining
 12
  
 Picks Remaining
-10
+8
 Vision
  
  
 End Zone
  
 QB
-Stafford
-LAR
+*Maye
+NE
  
 QB
-*Mahomes
+Mahomes
 KC
 RB
 Montgomery
@@ -254,8 +254,8 @@ Williams
 Det
  
 WR
-*Ridley
-Ten
+*Robinson
+NYG
 WR
 Waddle
 Mia
@@ -268,8 +268,8 @@ Kraft
 GB
  
 TE
-Njoku
-Cle
+*Geodert
+Phi
 K
 Aubrey
 Dal
@@ -292,19 +292,19 @@ SpT
 Philadelphia
  
 T1
-McCarthy  QB
-Min
+*Stafford  QB
+LAR
  
 T1
-*Herbert  QB
+Herbert  QB
 LAC
 T2
 Kamara  RB
 NO
  
 T2
-Harvey  RB
-Den
+*Vidal RB
+LAC
 T3
 Jeudy  WR
 Cle
@@ -317,15 +317,15 @@ Jackson  QB
 Bal
  
 T4
-*Ayomanor WR
+*Ridley WR
 Ten
  
 Picks Remaining
-11
+10
  
  
 Picks Remaining
-11
+8
 Hawk Tuah
  
  
@@ -336,7 +336,7 @@ Prescott
 Dal
  
 QB
-*Jones
+Jones
 Ind
 RB
 Gibbs
@@ -350,10 +350,10 @@ Williams
 LAR
  
 RB
-*Williams
+Williams
 Dal
 WR
-Johnston
+*Johnston
 LAC
  
 WR
@@ -371,14 +371,14 @@ Sutton
 Den
  
 WR
-Robinson
-SF
+*Lamb
+Dal
 TE
 Kelce
 KC
  
 TE
-*Warren
+Warren
 Ind
 K
 McPherson
@@ -409,29 +409,29 @@ T1
 Purdy  QB
 SF
 T2
-Rice  WR
-KC
+T*Hubbard  RB
+Car
  
 T2
-Lamb  WR
+*Robinson  WR
+SF
+T3
+*Tucker  WR
+LV
  
 T3
-Love  QB
-GB
- 
-T3
-*Hampton  RB
+Hampton  RB
 LAC
 T4
 Green Bay Defense
  
  
 T4
-*Bowers  TE
+Bowers  TE
 LV
  
 Picks Remaining
-9
+8
  
  
 Picks Remaining
@@ -457,15 +457,15 @@ RB
 McCaffrey
 SF
 RB
-*Croskey-Merritt
+Croskey-Merritt
 Was
  
 RB
-Skattebo
+Skattabo
 NYG
 WR
-Wilson
-NYJ
+*Rice
+KC
  
 WR
 St. Brown
@@ -482,15 +482,15 @@ Egbuka
 TB
  
 WR
-Samuel
-Was
+*McMillan
+Car
 TE
 McBride
 Ari
  
 TE
-Johnson
-NO
+*Kittle
+SF
 K
 Fairbairn
 Tex
@@ -520,26 +520,26 @@ T1
 Daniels QB
 Was
 T2
-Hubbard  RB
-Car
+*Wilson   WR
+NYJ
  
 T2
-Jones
+Jones RB
 Min
 T3
 Pearsall  WR
 SF
  
 T3
-McMillan
-Car
+*Samuel WR
+Was
 T4
-*Achane RB
+Achane RB
 Mia
  
 T4
-Kittle  TE
-SF
+*Johnson  TE
+NO
  
 Picks Remaining
 10
