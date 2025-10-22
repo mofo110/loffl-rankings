@@ -195,7 +195,7 @@ Meyers WR
 LV
  
 T2
-*CookRB
+*Cook RB
 Buf
 T3
 Irving  RB
@@ -461,7 +461,7 @@ Croskey-Merritt
 Was
  
 RB
-Skattabo
+Skattebo
 NYG
 WR
 *Rice
