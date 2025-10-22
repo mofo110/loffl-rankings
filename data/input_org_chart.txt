@@ -299,8 +299,8 @@ T1
 Herbert  QB
 LAC
 T2
-Kamara  RB
-NO
+Judkins  RB
+Cle
  
 T2
 *Vidal RB
@@ -321,7 +321,7 @@ T4
 Ten
  
 Picks Remaining
-10
+9
  
  
 Picks Remaining
