@@ -32,7 +32,7 @@ WR
 Mims
 Den
 WR
-Collins
+*Collins
 Tex
  
 WR
@@ -88,7 +88,7 @@ T2
 Henry  RB
 Bal
 T3
-Olave  WR
+*Olave WR
 NO
  
 T3
@@ -118,35 +118,35 @@ Mayfield
 TB
  
 QB
-Hurts
-Phi
+*Lawrence
+Jax
 RB
 Robinson
 Atl
  
 RB
-*Mason
-Min
+*Hunt
+KC
 RB
 White
 TB
  
 RB
-Pacheco
-KC
+Cook
+Buf
 WR
 Brown
 Phi
  
 WR
-*Doubs
-GB
+*Nacua
+LAR
 WR
 Worthy
 KC
  
 WR
-Flowers
+*Flowers
 Bal
 WR
 Pickens
@@ -156,8 +156,8 @@ WR
 Metcalf
 Pit
 TE
-Hockenson
-Min
+*Johnson
+NYG
  
 TE
 LaPorta
@@ -167,7 +167,7 @@ Bates
 Det
  
 K
-*McLaughlin
+McLaughlin
 TB
 Def
 New England
@@ -188,42 +188,42 @@ Fields  QB
 NYJ
  
 T1
-Lawrence  QB
-Jax
+*Hurts  QB
+Phi
 T2
-Meyers WR
-LV
+*Addison WR
+Min
  
 T2
-*Cook RB
-Buf
+*Mason RB
+Min
 T3
 Irving  RB
 TB
  
 T3
-Shakir  WR
+*Doubs  WR
+GB
+T4
+*Hockenson  TE
+Min
+ 
+T4
+*Shakir  WR
 Buf
-T4
- 
- 
- 
-T4
-*Nacua  WR
-LAR
 Picks Remaining
-12
+10
  
 Picks Remaining
-8
+7
 Vision
  
  
 End Zone
  
 QB
-*Maye
-NE
+*Jackson
+Bal
  
 QB
 Mahomes
@@ -233,8 +233,8 @@ Montgomery
 Det
  
 RB
-Barkley
-Phi
+*Vidal
+LAC
 RB
 Taylor
 Ind
@@ -254,8 +254,8 @@ Williams
 Det
  
 WR
-*Robinson
-NYG
+*Pittman
+Ind
 WR
 Waddle
 Mia
@@ -268,7 +268,7 @@ Kraft
 GB
  
 TE
-*Geodert
+Goedert
 Phi
 K
 Aubrey
@@ -292,7 +292,7 @@ SpT
 Philadelphia
  
 T1
-*Stafford  QB
+ Stafford  QB
 LAR
  
 T1
@@ -303,21 +303,21 @@ Judkins  RB
 Cle
  
 T2
-*Vidal RB
-LAC
+*Barkley RB
+Phi
 T3
 Jeudy  WR
 Cle
  
 T3
-Evans WR
-TB
+*Robinson WR
+NYG
 T4
-Jackson  QB
-Bal
+*Maye QB
+NE
  
 T4
-*Ridley WR
+Ridley WR
 Ten
  
 Picks Remaining
@@ -325,7 +325,7 @@ Picks Remaining
  
  
 Picks Remaining
-8
+7
 Hawk Tuah
  
  
@@ -339,29 +339,29 @@ QB
 Jones
 Ind
 RB
-Gibbs
+*Gibbs
 Det
  
 RB
 Walker
 Sea
 RB
-Williams
+*Williams
 LAR
  
 RB
 Williams
 Dal
 WR
-*Johnston
-LAC
+*Smith-Njigba
+Sea
  
 WR
 Jefferson
 Min
 WR
-Smith-Njigba
-Sea
+Boutte
+NE
  
 WR
 Odunze
@@ -371,7 +371,7 @@ Sutton
 Den
  
 WR
-*Lamb
+Lamb
 Dal
 TE
 Kelce
@@ -388,11 +388,11 @@ K
 Lutz
 Den
 Def
-Jacksonville
+Green Bay
  
  
 Def
-Pittsburgh
+Indianapolis
  
 SpT
 Jacksonville
@@ -402,40 +402,40 @@ SpT
 Pittsburgh
  
 T1
-Pollard  RB
+ *Pollard  RB
 Ten
  
 T1
 Purdy  QB
 SF
 T2
-T*Hubbard  RB
+*Hubbard RB
 Car
  
 T2
-*Robinson  WR
+Robinson  WR
 SF
 T3
-*Tucker  WR
+Tucker  WR
 LV
  
 T3
 Hampton  RB
 LAC
 T4
-Green Bay Defense
- 
+*Johnston  WR
+LAC
  
 T4
 Bowers  TE
 LV
  
 Picks Remaining
-8
+7
  
  
 Picks Remaining
-9
+8
 Manly Men
  
  
@@ -454,17 +454,17 @@ Jacobs
 GB
  
 RB
-McCaffrey
+McCafffrey
 SF
 RB
-Croskey-Merritt
-Was
+Achane
+Mia
  
 RB
-Skattebo
-NYG
+*Jones
+Min
 WR
-*Rice
+Rice
 KC
  
 WR
@@ -482,22 +482,22 @@ Egbuka
 TB
  
 WR
-*McMillan
+McMillan
 Car
 TE
 McBride
 Ari
  
 TE
-*Kittle
+Kittle
 SF
 K
 Fairbairn
 Tex
  
 K
-Gay
-Was
+*Piniero
+SF
 Def
 Houston
  
@@ -520,25 +520,25 @@ T1
 Daniels QB
 Was
 T2
-*Wilson   WR
+Wilson   WR
 NYJ
  
 T2
-Jones RB
-Min
+ 
+ 
 T3
 Pearsall  WR
 SF
  
 T3
-*Samuel WR
+Samuel WR
 Was
 T4
-Achane RB
-Mia
+Croskey-Merritt RB
+Was
  
 T4
-*Johnson  TE
+Johnson  TE
 NO
  
 Picks Remaining
@@ -546,4 +546,4 @@ Picks Remaining
  
  
 Picks Remaining
-10
+9
