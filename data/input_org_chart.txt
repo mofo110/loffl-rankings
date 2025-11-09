@@ -4,8 +4,8 @@ Hot Shots
 Go-Go's
  
 QB
-Stroud
-Tex
+*Darnold
+Sea
  
 QB
 Williams
@@ -15,8 +15,8 @@ Hall
 NYJ
  
 RB
-Brown
-Cin
+*Henry
+Bal
 RB
 Etienne
 Jax
@@ -29,10 +29,10 @@ Chase
 Cin
  
 WR
-Mims
-Den
+*Jennings
+SF
 WR
-*Collins
+Collins
 Tex
  
 WR
@@ -85,10 +85,10 @@ Burrow  QB
 Cin
  
 T2
-Henry  RB
-Bal
+*Brown  RB
+Cin
 T3
-*Olave WR
+Olave WR
 NO
  
 T3
@@ -99,11 +99,11 @@ Andrews  TE
 Bal
  
 T4
-Jennings  WR
-SF
+*Mims  WR
+Den
  
 Picks Remaining
-8
+7
  
  
 Picks Remaining
@@ -118,35 +118,35 @@ Mayfield
 TB
  
 QB
-*Lawrence
-Jax
+*Hurts
+Phi
 RB
 Robinson
 Atl
  
 RB
-*Hunt
-KC
+*Cook
+Buf
 RB
 White
 TB
  
 RB
-Cook
-Buf
+*Dobbins
+Den
 WR
 Brown
 Phi
  
 WR
-*Nacua
+Nacua
 LAR
 WR
 Worthy
 KC
  
 WR
-*Flowers
+Flowers
 Bal
 WR
 Pickens
@@ -156,7 +156,7 @@ WR
 Metcalf
 Pit
 TE
-*Johnson
+Johnson
 NYG
  
 TE
@@ -188,53 +188,53 @@ Fields  QB
 NYJ
  
 T1
-*Hurts  QB
-Phi
+*Lawrence  QB
+Jax
 T2
-*Addison WR
+Addison WR
 Min
  
 T2
-*Mason RB
-Min
+*Hunt RB
+KC
 T3
 Irving  RB
 TB
  
 T3
-*Doubs  WR
+Doubs  WR
 GB
 T4
-*Hockenson  TE
+Hockenson  TE
 Min
  
 T4
-*Shakir  WR
+Shakir  WR
 Buf
 Picks Remaining
 10
  
 Picks Remaining
-7
+6
 Vision
  
  
 End Zone
  
 QB
-*Jackson
+Jackson
 Bal
  
 QB
-Mahomes
-KC
+*Herbert
+LAC
 RB
-Montgomery
-Det
+*Judkins
+Cle
  
 RB
-*Vidal
-LAC
+*Barkley
+Phi
 RB
 Taylor
 Ind
@@ -254,7 +254,7 @@ Williams
 Det
  
 WR
-*Pittman
+Pittman
 Ind
 WR
 Waddle
@@ -264,8 +264,8 @@ WR
 Harrison
 Ari
 TE
-Kraft
-GB
+*Gadsden   
+LAC
  
 TE
 Goedert
@@ -292,28 +292,28 @@ SpT
 Philadelphia
  
 T1
- Stafford  QB
+Stafford  QB
 LAR
  
 T1
-Herbert  QB
+*Mahomes  QB
+KC
+T2
+*Montgomery  RB
+Det
+ 
+T2
+*Vidal  RB
 LAC
-T2
-Judkins  RB
-Cle
- 
-T2
-*Barkley RB
-Phi
 T3
-Jeudy  WR
-Cle
+ 
+ 
  
 T3
-*Robinson WR
+Robinson WR
 NYG
 T4
-*Maye QB
+Maye QB
 NE
  
 T4
@@ -321,7 +321,7 @@ Ridley WR
 Ten
  
 Picks Remaining
-9
+8
  
  
 Picks Remaining
@@ -339,29 +339,29 @@ QB
 Jones
 Ind
 RB
-*Gibbs
+Gibbs
 Det
  
 RB
 Walker
 Sea
 RB
-*Williams
+Williams
 LAR
  
 RB
 Williams
 Dal
 WR
-*Smith-Njigba
+Smith-Njigba
 Sea
  
 WR
 Jefferson
 Min
 WR
-Boutte
-NE
+*Johnston
+LAC
  
 WR
 Odunze
@@ -402,14 +402,14 @@ SpT
 Pittsburgh
  
 T1
- *Pollard  RB
+ Pollard  RB
 Ten
  
 T1
 Purdy  QB
 SF
 T2
-*Hubbard RB
+Hubbard RB
 Car
  
 T2
@@ -423,8 +423,8 @@ T3
 Hampton  RB
 LAC
 T4
-*Johnston  WR
-LAC
+*Boutte WR
+NE
  
 T4
 Bowers  TE
@@ -461,8 +461,8 @@ Achane
 Mia
  
 RB
-*Jones
-Min
+*Monangai
+Chi
 WR
 Rice
 KC
@@ -496,7 +496,7 @@ Fairbairn
 Tex
  
 K
-*Piniero
+Piniero
 SF
 Def
 Houston
@@ -524,8 +524,8 @@ Wilson   WR
 NYJ
  
 T2
- 
- 
+*Charboneau  RB
+Sea
 T3
 Pearsall  WR
 SF
@@ -538,12 +538,12 @@ Croskey-Merritt RB
 Was
  
 T4
-Johnson  TE
-NO
+*Jones  RB
+Min
  
 Picks Remaining
 10
  
  
 Picks Remaining
-9
+7
