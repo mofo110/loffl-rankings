@@ -4,18 +4,18 @@ Hot Shots
 Go-Go's
  
 QB
-*Darnold
+Darnold
 Sea
  
 QB
 Williams
 Chi
 RB
-Hall
-NYJ
+*Henderson
+NE
  
 RB
-*Henry
+Henry
 Bal
 RB
 Etienne
@@ -29,15 +29,15 @@ Chase
 Cin
  
 WR
-*Jennings
+Jennings
 SF
 WR
 Collins
 Tex
  
 WR
-Thomas
-Jax
+*Higgins
+Cin
 WR
 Moore
 Chi
@@ -50,8 +50,8 @@ Ferguson
 Dal
  
 TE
-Kincaid
-Buf
+*Otten
+TB
 K
 Elliot
 Phi
@@ -64,7 +64,7 @@ Detroit
  
  
 Def
-Seattle
+*Baltimore
  
 SpT
 Detroit
@@ -74,8 +74,8 @@ SpT
 San Francisco
  
 T1
-Henderson RB
-NE
+*Hall RB
+NYJ
  
 T1
 Nix QB
@@ -85,21 +85,21 @@ Burrow  QB
 Cin
  
 T2
-*Brown  RB
+Brown  RB
 Cin
 T3
 Olave WR
 NO
  
 T3
-Higgins  WR
-Cin
+*Thomas  WR
+Jax
 T4
 Andrews  TE
 Bal
  
 T4
-*Mims  WR
+Mims  WR
 Den
  
 Picks Remaining
@@ -107,7 +107,7 @@ Picks Remaining
  
  
 Picks Remaining
-10
+8
 Gogaroppolos
  
  
@@ -118,22 +118,22 @@ Mayfield
 TB
  
 QB
-*Hurts
+Hurts
 Phi
 RB
 Robinson
 Atl
  
 RB
-*Cook
+Cook
 Buf
 RB
 White
 TB
  
 RB
-*Dobbins
-Den
+*Marks
+Tex
 WR
 Brown
 Phi
@@ -160,8 +160,8 @@ Johnson
 NYG
  
 TE
-LaPorta
-Det
+*Pitts
+Atl
 K
 Bates
 Det
@@ -188,14 +188,14 @@ Fields  QB
 NYJ
  
 T1
-*Lawrence  QB
-Jax
+*LaPorta  TE
+Det
 T2
 Addison WR
 Min
  
 T2
-*Hunt RB
+Hunt RB
 KC
 T3
 Irving  RB
@@ -215,25 +215,25 @@ Picks Remaining
 10
  
 Picks Remaining
-6
+4
 Vision
  
  
 End Zone
  
 QB
-Jackson
-Bal
+*Maye
+NE
  
 QB
-*Herbert
+Herbert
 LAC
 RB
-*Judkins
+Judkins
 Cle
  
 RB
-*Barkley
+Barkley
 Phi
 RB
 Taylor
@@ -261,10 +261,10 @@ Waddle
 Mia
  
 WR
-Harrison
-Ari
+*Robinson
+NYG
 TE
-*Gadsden   
+Gadsden   
 LAC
  
 TE
@@ -296,24 +296,24 @@ Stafford  QB
 LAR
  
 T1
-*Mahomes  QB
+Mahomes  QB
 KC
 T2
-*Montgomery  RB
+Montgomery  RB
 Det
  
 T2
-*Vidal  RB
+Vidal  RB
 LAC
 T3
- 
- 
+*Jackson  QB
+Bal
  
 T3
-Robinson WR
-NYG
+*Harrison WR
+Ari
 T4
-Maye QB
+
 NE
  
 T4
@@ -360,7 +360,7 @@ WR
 Jefferson
 Min
 WR
-*Johnston
+Johnston
 LAC
  
 WR
@@ -423,7 +423,7 @@ T3
 Hampton  RB
 LAC
 T4
-*Boutte WR
+Boutte WR
 NE
  
 T4
@@ -461,7 +461,7 @@ Achane
 Mia
  
 RB
-*Monangai
+Monangai
 Chi
 WR
 Rice
@@ -471,8 +471,8 @@ WR
 St. Brown
 Det
 WR
-Allen
-LAC
+*Pearsall
+SF
  
 WR
 London
@@ -482,8 +482,8 @@ Egbuka
 TB
  
 WR
-McMillan
-Car
+*Samuel
+Was
 TE
 McBride
 Ari
@@ -492,8 +492,8 @@ TE
 Kittle
 SF
 K
-Fairbairn
-Tex
+*Myers
+Sea
  
 K
 Piniero
@@ -503,7 +503,7 @@ Houston
  
  
 Def
-Buffalo
+*LA Rams
  
 SpT
 Dallas
@@ -520,30 +520,30 @@ T1
 Daniels QB
 Was
 T2
-Wilson   WR
-NYJ
+*Diggs  WR
+NE
  
 T2
-*Charboneau  RB
+Charboneau  RB
 Sea
 T3
-Pearsall  WR
-SF
+*Allen  WR
+LAC
  
 T3
-Samuel WR
-Was
+*McMillen  WR
+Car
 T4
-Croskey-Merritt RB
-Was
+*Fairbairn  K
+Tex
  
 T4
-*Jones  RB
+Jones  RB
 Min
  
 Picks Remaining
-10
+8
  
  
 Picks Remaining
-7
+6
