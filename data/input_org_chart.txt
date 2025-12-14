@@ -4,8 +4,8 @@ Hot Shots
 Go-Go's
  
 QB
-Darnold
-Sea
+Burrow
+Cin
  
 QB
 Williams
@@ -36,11 +36,11 @@ Collins
 Tex
  
 WR
-Higgins
-Cin
+Watson
+GB
 WR
-Moore
-Chi
+Chase
+Cin
  
 WR
 Adams
@@ -50,15 +50,15 @@ Ferguson
 Dal
  
 TE
-Otton
-TB
+Strange
+Jax
 K
 Elliot
 Phi
  
 K
-Boswell
-Pit
+Patterson
+Mia
 Def
 Detroit
  
@@ -81,33 +81,33 @@ T1
 Nix QB
 Den
 T2
-Burrow  QB
-Cin
+Darnold  QB
+Sea
  
 T2
 Brown  RB
 Cin
 T3
-Chase WR
-Cin
+Moore WR
+Chi
  
 T3
-Thomas  WR
-Jax
+Higgins WR
+Cin
 T4
 Andrews  TE
 Bal
  
 T4
-Mims  WR
-Den
+Myers  WR
+Jax
  
 Picks Remaining
 7
  
  
 Picks Remaining
-8
+4
 Gogaroppolos
  
  
@@ -132,8 +132,8 @@ White
 TB
  
 RB
-*Hunt
-KC
+*Marks
+Tex
 WR
 Brown
 Phi
@@ -146,14 +146,14 @@ Worthy
 KC
  
 WR
-Flowers
-Bal
+*Metcalf
+Pit
 WR
 Pickens
 Dal
  
 WR
-*Shakir
+Shakir
 Buf
 TE
 Johnson
@@ -174,7 +174,7 @@ New England
  
  
 Def
-*Seattle
+Seattle
  
 SpT
 NY Giants
@@ -188,41 +188,41 @@ Fields  QB
 NYJ
  
 T1
-Pitts  TE
-Atl
+Hunt  RB
+KC
 T2
 Addison WR
 Min
  
 T2
-*Marks RB
-Tex
+*Harvey RB
+Den
 T3
 Irving  RB
 TB
  
 T3
-Doubs  WR
-GB
+Flowers WR
+Bal
 T4
 Hockenson  TE
 Min
  
 T4
-*Metcalf WR
-Pit
+*Doubs WR
+GB
 Picks Remaining
 10
  
 Picks Remaining
-2
+1
 Vision
  
  
 End Zone
  
 QB
-*Stafford
+Stafford
 LAR
  
 QB
@@ -243,8 +243,8 @@ RB
 Jeanty
 LV
 WR
-Smith
-Phi
+Wilson
+Ari
  
 WR
 McConkey
@@ -264,8 +264,8 @@ WR
 Robinson
 NYG
 TE
-Gadsden   
-LAC
+*Fannin
+Cle
  
 TE
 Goedert
@@ -292,7 +292,7 @@ SpT
 Philadelphia
  
 T1
-*Maye QB
+Maye QB
 NE
  
 T1
@@ -313,15 +313,15 @@ T3
 Harrison WR
 Ari
 T4
-*Wilson  WR
-Ari
+Smith  WR
+Phi
  
 T4
 Ridley WR
 Ten
  
 Picks Remaining
-7
+6
  
  
 Picks Remaining
@@ -336,7 +336,7 @@ Prescott
 Dal
  
 QB
-Purdy
+*Purdy
 SF
 RB
 Gibbs
@@ -360,12 +360,12 @@ WR
 Jefferson
 Min
 WR
-*Sutton
+Sutton
 Den
  
 WR
-Odunze
-Chi
+Franklin
+Den
 WR
 *Boutte
 NE
@@ -378,8 +378,8 @@ Kelce
 KC
  
 TE
-Warren
-Ind
+*Bowers
+LV
 K
 McPherson
 Cin
@@ -406,15 +406,15 @@ T1
 Ten
  
 T1
-Jones  QB
-Ind
+ 
+ 
 T2
 Hubbard RB
 Car
  
 T2
-Robinson  WR
-SF
+Odunze  WR
+Chi
 T3
 *Johnston WR
 LAC
@@ -423,19 +423,19 @@ T3
 Hampton  RB
 LAC
 T4
-*Tucker WR
+Tucker WR
 LV
  
 T4
-Bowers  TE
-LV
+*Warren TE
+Ind
  
 Picks Remaining
 7
  
  
 Picks Remaining
-8
+7
 Manly Men
  
  
@@ -450,7 +450,7 @@ QB
 Goff
 Det
 RB
-*Jacobs
+Jacobs
 GB
  
 RB
@@ -468,11 +468,11 @@ Rice
 KC
  
 WR
-St. Brown
-Det
+Burden
+Chi
 WR
-*Diggs
-NE
+ *McLaurin
+Was
  
 WR
 McMillen
@@ -482,8 +482,8 @@ Egbuka
 TB
  
 WR
-Samuel
-Was
+*St.Brown
+Det
 TE
 McBride
 Ari
@@ -496,8 +496,8 @@ Myers
 Sea
  
 K
-*Butker
-KC
+*Piniero
+SF
 Def
 Houston
  
@@ -513,37 +513,37 @@ SpT
 Denver
  
 T1
-McLaurin  WR
-Was
+*Diggs  WR
+NE
  
 T1
-Piniero  K
-SF
+*Butker  K
+KC
 T2
-*Pearsall  WR
+Pearsall  WR
 SF
  
 T2
 Charboneau  RB
 Sea
 T3
-*Swift  RB
+Swift  RB
 Chi
  
 T3
-London  WR
-Atl
+*Samuel WR
+Was
 T4
 Fairbairn  K
 Tex
  
 T4
-Jones  RB
-Min
+London  WR
+Atl
  
 Picks Remaining
 7
  
  
 Picks Remaining
-4
+3
