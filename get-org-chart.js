@@ -15,7 +15,7 @@ ORG_DEFINITIONS.ORG_NAMES.forEach(orgName => {
 
 const fs = require('fs');
 const lines = fs.
-    readFileSync('./data/input_org_chart.txt', 'utf8').
+    readFileSync('./data/input_org_chart.csv', 'utf8').
     replaceAll("Picks Remaining", "PicksRemaining"). // Let's simplify the multi-word property
     split(/\n+/); // Let's split by newline character
 
