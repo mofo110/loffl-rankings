@@ -1,15 +1,15 @@
 ,End Zone,,,,Fantasy Dad,
-QB,Burrows,Cin,,QB,Prescott,Dal
+QB,Burrow,Cin,,QB,Prescott,Dal
 RB,Gibbs,Det,,RB,Taylor,Ind
-RB,Swift,Cgu,,RB,Hampton,LAC
+RB,Swift,Chi,,RB,Hampton,LAC
 WR,Smith,Phi,,WR,Collins,Hou
-WR,McConkey,LAC,,WR,Nabors,NYG
-WR,McClaurin,Was,,WR,Adams,LAR
+WR,McConkey,LAC,,WR,Nabers,NYG
+WR,McLaurin,Was,,WR,Adams,LAR
 TE,*Johnson,NO,,TE,Fannin,Cle
 K,Butker,KC,,K,Dicker,LAC
 Def,Jacksonville,,,Def,Detroit,
 SpT,Seattle,,,SpT,Tampa Bay,
-T1,Etiene  RB,NO,,T1,Purdy  QB,SF
+T1,Etienne  RB,NO,,T1,Purdy  QB,SF
 T2,Mayfield  QB,TB,,T2,Odunze  WR,Chi
 T3,Washington  WR,Jax,,T3,,
 IR,*Bowers  TE LV,1,,IR,,
@@ -21,7 +21,7 @@ RB,Skattebo,NYG,,RB,Tuten,Jax
 WR,Chase,Cin,,WR,St. Brown,Det
 WR,Waddle,Den,,WR,Brown,NE
 WR,Evans,SF,,WR,Sutton,Den
-TE,Warren,Ind,,TE,Kraft,Buf
+TE,Warren,Ind,,TE,Kraft,GB
 K,Boswell,Pit,,K,Aubrey,Dal
 Def,Houston,,,Def,Denver,
 SpT,NY Jets,,,SpT,Denver,
@@ -37,25 +37,25 @@ RB,Jeanty,LV,,RB,Brown,Cin
 WR,Jefferson,Min,,WR,Pickens,Dal
 WR,Olave,NO,,WR,Williams,Det
 WR,Watson,GB,,WR,Moore,Buf
-TE,LaPorta,Det,,TE,Schultz,Dal
+TE,LaPorta,Det,,TE,Schultz,Hou
 K,McPherson,Cin,,K,Little,Jax
 Def,Pittsburgh,,,Def,Philadelphia,
 SpT,Houston,,,SpT,Buffalo,
-T1,Murrey  QB,Min,,T1,Lawrence  QB,Jax
+T1,Murray  QB,Min,,T1,Lawrence  QB,Jax
 T2,Irving  RB,TB,,T2,Shakir  WR,Buf
 T3,,,,T3,Corum  RB,LAR
 IR,,,,IR,,
 ,Picks Remaining,13,,,Picks Remaining,12
 ,Capsters,,,,Manly Men,
-QB,Wiliams,Chi,,QB,Allen,Buf
+QB,Williams,Chi,,QB,Allen,Buf
 RB,McCaffrey,SF,,RB,Williams,Dal
 RB,Barkley,Phi,,RB,Hall,NYJ
-WR,London,Atl,,WR,Smith-Njigbe,Sea
+WR,London,Atl,,WR,Smith-Njigba,Sea
 WR,Higgins,Cin,,WR,Egbuka,TB
 WR,Wilson,NYJ,,WR,Stribling,SF
 TE,McBride,Ari,,TE,Loveland,Chi
 K,Mevis,LAR,,K,Fairbairn,Hou
-Def,New England,,,Def,Seatle,
+Def,New England,,,Def,Seattle,
 SpT,Kansas City,,,SpT,Dallas,
 T1,Love  QB,GB,,T1,Herbert  QB,LAC
 T2,Stevenson  RB,NE,,T2,Burden  WR,Chi
@@ -70,7 +70,7 @@ WR,Nacua,LAR,,WR,Lamb,Dal
 WR,Rice,KC,,WR,Flowers,Bal
 WR,McMillan,Car,,WR,Samual,SF
 TE,Likely,NYG,,TE,Kittle,SF
-K,Myers,Sea,,K,Piniero,SF
+K,Myers,Sea,,K,Pineiro,SF
 Def,LA Rams,,,Def,Minnesota,
 SpT,Tennessee,,,SpT,San Franciso,
 T1,Dart  QB,NYG,,T1,Goff  QB,Det
