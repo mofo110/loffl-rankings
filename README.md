@@ -11,7 +11,7 @@ There are two parts to this app:
 2. We then get the rankings.
     1. Get weekly rankings from [FantasyPros.com](https://www.fantasypros.com) for each position
     2. Match each position player with the org chart
-    2. Write output JSON files `.data/rankings-[position].json`
+    2. Write output JSON files `./data/rankings-[position].json`
 
 ## Requirements
 
@@ -64,13 +64,13 @@ node get-rankings.js
         "week": 1,
         "position": "QB",
         "rank": 1,
-        "shortName": "J. Allen",
-        "name": "Josh Allen",
-        "team": "BUF",
-        "byeWeek": 7,
-        "opponent": "vs. BAL",
+        "shortName": "L. Jackson",
+        "name": "Lamar Jackson",
+        "team": "BAL",
+        "byeWeek": 13,
+        "opponent": "at IND",
         "grade": "A+",
-        "orgName": ""
+        "orgName": "Hot Shots"
     },
     ...
 ]
