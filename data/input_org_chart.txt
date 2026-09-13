@@ -1,549 +1,80 @@
-Hot Shots
- 
- 
-Go-Go's
- 
-QB
-Burrow
-Cin
- 
-QB
-Williams
-Chi
-RB
-Henderson
-NE
- 
-RB
-Henry
-Bal
-RB
-Etienne
-Jax
- 
-RB
-Dowdle
-Car
-WR
-Olave
-NO
- 
-WR
-Jennings
-SF
-WR
-Collins
-Tex
- 
-WR
-Watson
-GB
-WR
-Chase
-Cin
- 
-WR
-Adams
-LAR
-TE
-Ferguson
-Dal
- 
-TE
-Strange
-Jax
-K
-Elliot
-Phi
- 
-K
-Patterson
-Mia
-Def
-Detroit
- 
- 
-Def
-Baltimore
- 
-SpT
-Detroit
- 
- 
-SpT
-San Francisco
- 
-T1
-Hall RB
-NYJ
- 
-T1
-Nix QB
-Den
-T2
-Darnold  QB
-Sea
- 
-T2
-Brown  RB
-Cin
-T3
-Moore WR
-Chi
- 
-T3
-Higgins WR
-Cin
-T4
-Andrews  TE
-Bal
- 
-T4
-Myers  WR
-Jax
- 
-Picks Remaining
-7
- 
- 
-Picks Remaining
-4
-Gogaroppolos
- 
- 
-Grumpy Grandpas
- 
-QB
-Mayfield
-TB
- 
-QB
-Hurts
-Phi
-RB
-Robinson
-Atl
- 
-RB
-Cook
-Buf
-RB
-White
-TB
- 
-RB
-*Marks
-Tex
-WR
-Brown
-Phi
- 
-WR
-Nacua
-LAR
-WR
-Worthy
-KC
- 
-WR
-*Metcalf
-Pit
-WR
-Pickens
-Dal
- 
-WR
-Shakir
-Buf
-TE
-Johnson
-NYG
- 
-TE
-Henry
-NE
-K
-Bates
-Det
- 
-K
-McLaughlin
-TB
-Def
-New England
- 
- 
-Def
-Seattle
- 
-SpT
-NY Giants
- 
- 
-SpT
-Houston
- 
-T1
-Fields  QB
-NYJ
- 
-T1
-Hunt  RB
-KC
-T2
-Addison WR
-Min
- 
-T2
-*Harvey RB
-Den
-T3
-Irving  RB
-TB
- 
-T3
-Flowers WR
-Bal
-T4
-Hockenson  TE
-Min
- 
-T4
-*Doubs WR
-GB
-Picks Remaining
-10
- 
-Picks Remaining
-1
-Vision
- 
- 
-End Zone
- 
-QB
-Stafford
-LAR
- 
-QB
-Mahomes
-KC
-RB
-Judkins
-Cle
- 
-RB
-Barkley
-Phi
-RB
-Taylor
-Ind
- 
-RB
-Jeanty
-LV
-WR
-Wilson
-Ari
- 
-WR
-McConkey
-LAC
-WR
-Williams
-Det
- 
-WR
-Pittman
-Ind
-WR
-Waddle
-Mia
- 
-WR
-Robinson
-NYG
-TE
-*Fannin
-Cle
- 
-TE
-Goedert
-Phi
-K
-Aubrey
-Dal
- 
-K
-Dicker
-LAC
-Def
-Denver
- 
- 
-Def
-Philadelphia
- 
-SpT
-Baltimore
- 
- 
-SpT
-Philadelphia
- 
-T1
-Maye QB
-NE
- 
-T1
-Herbert  QB
-LAC
-T2
-Montgomery  RB
-Det
- 
-T2
-Vidal  RB
-LAC
-T3
-Jackson  QB
-Bal
- 
-T3
-Harrison WR
-Ari
-T4
-Smith  WR
-Phi
- 
-T4
-Ridley WR
-Ten
- 
-Picks Remaining
-6
- 
- 
-Picks Remaining
-7
-Hawk Tuah
- 
- 
-WFT
- 
-QB
-Prescott
-Dal
- 
-QB
-*Purdy
-SF
-RB
-Gibbs
-Det
- 
-RB
-Walker
-Sea
-RB
-Williams
-LAR
- 
-RB
-Williams
-Dal
-WR
-Smith-Njigba
-Sea
- 
-WR
-Jefferson
-Min
-WR
-Sutton
-Den
- 
-WR
-Franklin
-Den
-WR
-*Boutte
-NE
- 
-WR
-Lamb
-Dal
-TE
-Kelce
-KC
- 
-TE
-*Bowers
-LV
-K
-McPherson
-Cin
- 
-K
-Lutz
-Den
-Def
-Green Bay
- 
- 
-Def
-Indianapolis
- 
-SpT
-Jacksonville
- 
- 
-SpT
-Pittsburgh
- 
-T1
- Pollard  RB
-Ten
- 
-T1
- 
- 
-T2
-Hubbard RB
-Car
- 
-T2
-Odunze  WR
-Chi
-T3
-*Johnston WR
-LAC
- 
-T3
-Hampton  RB
-LAC
-T4
-Tucker WR
-LV
- 
-T4
-*Warren TE
-Ind
- 
-Picks Remaining
-7
- 
- 
-Picks Remaining
-7
-Manly Men
- 
- 
- 
-Capsters
- 
-QB
-Allen
-Buf
- 
-QB
-Goff
-Det
-RB
-Jacobs
-GB
- 
-RB
-McCaffrey
-SF
-RB
-Achane
-Mia
- 
-RB
-Monangai
-Chi
-WR
-Rice
-KC
- 
-WR
-Burden
-Chi
-WR
- *McLaurin
-Was
- 
-WR
-McMillen
-Car
-WR
-Egbuka
-TB
- 
-WR
-*St.Brown
-Det
-TE
-McBride
-Ari
- 
-TE
-Kittle
-SF
-K
-Myers
-Sea
- 
-K
-*Piniero
-SF
-Def
-Houston
- 
- 
-Def
-LA Rams
- 
-SpT
-Dallas
- 
- 
-SpT
-Denver
- 
-T1
-*Diggs  WR
-NE
- 
-T1
-*Butker  K
-KC
-T2
-Pearsall  WR
-SF
- 
-T2
-Charboneau  RB
-Sea
-T3
-Swift  RB
-Chi
- 
-T3
-*Samuel WR
-Was
-T4
-Fairbairn  K
-Tex
- 
-T4
-London  WR
-Atl
- 
-Picks Remaining
-7
- 
- 
-Picks Remaining
-3
+,End Zone,,,,Fantasy Dad,
+QB,Burrows,Cin,,QB,Prescott,Dal
+RB,Gibbs,Det,,RB,Taylor,Ind
+RB,Swift,Cgu,,RB,Hampton,LAC
+WR,Smith,Phi,,WR,Collins,Hou
+WR,McConkey,LAC,,WR,Nabors,NYG
+WR,McClaurin,Was,,WR,Adams,LAR
+TE,*Johnson,NO,,TE,Fannin,Cle
+K,Butker,KC,,K,Dicker,LAC
+Def,Jacksonville,,,Def,Detroit,
+SpT,Seattle,,,SpT,Tampa Bay,
+T1,Etiene  RB,NO,,T1,Purdy  QB,SF
+T2,Mayfield  QB,TB,,T2,Odunze  WR,Chi
+T3,Washington  WR,Jax,,T3,,
+IR,*Bowers  TE LV,1,,IR,,
+,Picks Remaining,11,,,Picks Remaining,13
+,Hot Shots,,,,Vision,
+QB,Jackson,Bal,,QB,Maye,NE
+RB,Walker,KC,,RB,Montgomery,Hou
+RB,Skattebo,NYG,,RB,Tuten,Jax
+WR,Chase,Cin,,WR,St. Brown,Det
+WR,Waddle,Den,,WR,Brown,NE
+WR,Evans,SF,,WR,Sutton,Den
+TE,Warren,Ind,,TE,Kraft,Buf
+K,Boswell,Pit,,K,Aubrey,Dal
+Def,Houston,,,Def,Denver,
+SpT,NY Jets,,,SpT,Denver,
+T1,Lemon  WR,Phi,,T1,Nix  QB,Den
+T2,Price  RB,Sea,,T2,Dobbins  RB,Den
+T3,,,,T3,*Godwin  WR,TB
+IR,,,,IR,,
+,Picks Remaining,13,,,Picks Remaining,12
+,WFT,,,,Grumpy Grandpas,
+QB,Hurts,Phi,,QB,Stafford,LAR
+RB,Robinson,Atl,,RB,Cook,Buf
+RB,Jeanty,LV,,RB,Brown,Cin
+WR,Jefferson,Min,,WR,Pickens,Dal
+WR,Olave,NO,,WR,Williams,Det
+WR,Watson,GB,,WR,Moore,Buf
+TE,LaPorta,Det,,TE,Schultz,Dal
+K,McPherson,Cin,,K,Little,Jax
+Def,Pittsburgh,,,Def,Philadelphia,
+SpT,Houston,,,SpT,Buffalo,
+T1,Murrey  QB,Min,,T1,Lawrence  QB,Jax
+T2,Irving  RB,TB,,T2,Shakir  WR,Buf
+T3,,,,T3,Corum  RB,LAR
+IR,,,,IR,,
+,Picks Remaining,13,,,Picks Remaining,12
+,Capsters,,,,Manly Men,
+QB,Wiliams,Chi,,QB,Allen,Buf
+RB,McCaffrey,SF,,RB,Williams,Dal
+RB,Barkley,Phi,,RB,Hall,NYJ
+WR,London,Atl,,WR,Smith-Njigbe,Sea
+WR,Higgins,Cin,,WR,Egbuka,TB
+WR,Wilson,NYJ,,WR,Stribling,SF
+TE,McBride,Ari,,TE,Loveland,Chi
+K,Mevis,LAR,,K,Fairbairn,Hou
+Def,New England,,,Def,Seatle,
+SpT,Kansas City,,,SpT,Dallas,
+T1,Love  QB,GB,,T1,Herbert  QB,LAC
+T2,Stevenson  RB,NE,,T2,Burden  WR,Chi
+T3,,,,T3,,
+IR,,,,IR,,
+,Picks Remaining,13,,,Picks Remaining,13
+,Hawk Tuah,,,,Go-Gos,
+QB,Mahomes,KC,,QB,Daniels,Was
+RB,Henry,Bal,,RB,Achane,Mia
+RB,Williams,LAR,,RB,Love,Ari
+WR,Nacua,LAR,,WR,Lamb,Dal
+WR,Rice,KC,,WR,Flowers,Bal
+WR,McMillan,Car,,WR,Samual,SF
+TE,Likely,NYG,,TE,Kittle,SF
+K,Myers,Sea,,K,Piniero,SF
+Def,LA Rams,,,Def,Minnesota,
+SpT,Tennessee,,,SpT,San Franciso,
+T1,Dart  QB,NYG,,T1,Goff  QB,Det
+T2,Judkins  RB,Cle,,T2,Kupp  WR,Sea
+T3,Metcalf  WR,Pit,,T3,Jacobs  RB,GB
+IR,,,,IR,,
+,Picks Remaining,12,,,Picks Remaining,12

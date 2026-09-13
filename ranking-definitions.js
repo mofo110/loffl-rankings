@@ -12,7 +12,7 @@ const TEAM_MAP = {
     DET: ["Det", "Detroit"],
     FA: ["FA", "Free Agent"],
     GB: ["GB", "Green Bay"],
-    HOU: ["Tex", "Houston"],
+    HOU: ["Hou", "Houston"],
     IND: ["Ind", "Indianapolis"],
     JAC: ["Jax", "Jacksonville"],
     KC: ["KC", "Kansas City"],
@@ -62,7 +62,7 @@ const TAXI_POSITIONS = [
     "T1",
     "T2",
     "T3",
-    "T4"
+    "IR"
 ];
 
 module.exports = { TEAM_MAP, ALL_POSITIONS, SINGLE_PLAYER_POSITIONS, MANY_PLAYER_POSITIONS, TEAM_POSITIONS, TAXI_POSITIONS };

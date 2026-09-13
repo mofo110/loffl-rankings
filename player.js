@@ -2,8 +2,9 @@ class Player {
     name = "";
     team = "";
 
-    constructor(name) {
+    constructor(name, team) {
         this.name = name;
+        this.team = team;
     }
 }
 

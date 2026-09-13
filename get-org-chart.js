@@ -3,10 +3,10 @@
  * We will create an org chart JSON output.
  * The next process could join the org chart with a rankings website.
  */
+const { exit } = require('process');
 const ORG_DEFINITIONS = require('./org-definitions');
 const Organization = require('./organization');
 const Player = require('./player');
-const PropertyCounts = require('./property-counts');
 
 let orgs = new Map();
 ORG_DEFINITIONS.ORG_NAMES.forEach(orgName => {
@@ -19,54 +19,83 @@ const lines = fs.
     replaceAll("Picks Remaining", "PicksRemaining"). // Let's simplify the multi-word property
     split(/\n+/); // Let's split by newline character
 
-const ODD = 1;
-const EVEN = 0;
+const ORG_1 = 0;
+const ORG_2 = 1;
+const PROP_1 = 0;
+const NAME_1 = 1;
+const TEAM_1 = 2;
+const PROP_2 = 4;
+const NAME_2 = 5;
+const TEAM_2 = 6;
 let orgNames = ["", ""];
-let propertyCounts = new PropertyCounts();
-let property = "";
-let currentOrg;
+let property1 = "";
+let property2 = "";
+let currentOrg1;
+let currentOrg2;
 
 lines.forEach(line => {
     let trimmed = line.trim();
-    if (trimmed.length > 0) {
+    if (validString(trimmed)) {
+        let columns = trimmed.split(/,/); // Let's split by comma
+
+        property1 = columns[PROP_1];
+        property2 = columns[PROP_2];
+
+        if (validString(property1) && validString(property2)) {}
+        else {
+            property1 = columns[PROP_1+1];
+            property2 = columns[PROP_2+1];
+        }
+
         // Start by checking for Org Name Headers
-        if (ORG_DEFINITIONS.ORG_NAMES.includes(trimmed)) {
-            // Start with NO ODD org being set
-            if (orgNames[ODD].length === 0) {
-                orgNames[ODD] = trimmed;
+        if (ORG_DEFINITIONS.ORG_NAMES.includes(property1)
+        && ORG_DEFINITIONS.ORG_NAMES.includes(property1)) {
+            orgNames[ORG_1] = property1;
+            orgNames[ORG_2] = property2;
+        }
+        // Then check for the column/property names. Set the current property
+        else if (ORG_DEFINITIONS.ALL_PROPERTIES.includes(property1)
+        && ORG_DEFINITIONS.ALL_PROPERTIES.includes(property2)) {
+            currentOrg1 = orgs.get(orgNames[ORG_1]);
+            currentOrg2 = orgs.get(orgNames[ORG_2]);
+        
+            // We are now dealing with data versus Org names and column/property names.  
+            // Handle singleton players for the last read property
+            if (ORG_DEFINITIONS.SINGLE_PLAYER_PROPERTIES.includes(property1)
+            && ORG_DEFINITIONS.SINGLE_PLAYER_PROPERTIES.includes(property2)) {
+                if (validString(columns[NAME_1])) {
+                    setPlayer(property1, currentOrg1, columns[NAME_1], columns[TEAM_1]);
+                }
+                if (validString(columns[NAME_2])) {
+                    setPlayer(property2, currentOrg2, columns[NAME_2], columns[TEAM_2]);
+                }
             }
-            // Then check if any EVEN org is set            
-            else if (orgNames[EVEN].length === 0) {
-                orgNames[EVEN] = trimmed;
+            // Handle array of players for the last read property
+            else if (ORG_DEFINITIONS.MANY_PLAYER_PROPERTIES.includes(property1)
+            && ORG_DEFINITIONS.MANY_PLAYER_PROPERTIES.includes(property2)) {
+                if (validString(columns[NAME_1])) {
+                    setPlayers(property1, currentOrg1, columns[NAME_1], columns[TEAM_1]);
+                }
+                if (validString(columns[NAME_2])) {
+                    setPlayers(property2, currentOrg2, columns[NAME_2], columns[TEAM_2]);
+                }
             }
-            // If both ODD and EVEN org are previously set, we must restart with a new pair of orgs
-            else if (orgNames[ODD].length > 0 && orgNames[EVEN].length > 0) {
-                orgNames[ODD] = trimmed;
-                orgNames[EVEN] = "";
+            // Handle teams for the last read property
+            else if (ORG_DEFINITIONS.TEAM_PROPERTIES.includes(property1)
+            && ORG_DEFINITIONS.TEAM_PROPERTIES.includes(property2)) {
+                if (validString(columns[NAME_1])) {
+                    setTeam(property1, currentOrg1, columns[NAME_1]);
+                }
+                if (validString(columns[NAME_2])) {
+                    setTeam(property2, currentOrg2, columns[NAME_2]);
+                }
             }
-        }
-        // Then check for the column/property names. Set the current property and increment its counter
-        else if (ORG_DEFINITIONS.ALL_PROPERTIES.includes(trimmed)) {
-            property = trimmed;
-            propertyCounts[property]++;
-            currentOrg = orgs.get(orgNames[propertyCounts[property] % 2]);
-        }
-        // We are now dealing with data versus Org names and column/property names.  
-        // Handle singleton players for the last read property
-        else if (ORG_DEFINITIONS.SINGLE_PLAYER_PROPERTIES.includes(property)) {
-            setPlayer(property, currentOrg, trimmed);
-        }
-        // Handle array of players for the last read property
-        else if (ORG_DEFINITIONS.MANY_PLAYER_PROPERTIES.includes(property)) {
-            setPlayers(property, currentOrg, trimmed);
-        }
-        // Handle teams for the last read property
-        else if (ORG_DEFINITIONS.TEAM_PROPERTIES.includes(property)) {
-            setTeam(property, currentOrg, trimmed);
-        }
-        // Handle numbers for the last read property
-        else if (ORG_DEFINITIONS.NUMERIC_PROPERTIES.includes(property)) {
-            setNumber(property, currentOrg, Number(trimmed));
+            // Handle numbers for the last read property
+            else if (ORG_DEFINITIONS.NUMERIC_PROPERTIES.includes(property1)
+            && ORG_DEFINITIONS.NUMERIC_PROPERTIES.includes(property2)) {
+                setNumber(property1, currentOrg1, Number(columns[TEAM_1]));
+                setNumber(property1, currentOrg2, Number(columns[TEAM_2]));
+            }
         }
     }
 });
@@ -76,41 +105,22 @@ const output = JSON.stringify(values, null, 4)
 console.log(output);
 fs.writeFileSync('./data/output-org-chart.json', output);
 
-function setPlayer(property, currentOrg, trimmed) {
-    // If the player already exists, set the team
-    if (currentOrg[property]) {
-        currentOrg[property].team = trimmed;
-    }
-    // Otherwise, create a new player
-    else {
-        currentOrg[property] = new Player(trimmed);
-    }
+function validString(str) {
+    return (str && str.trim().length > 0)
 }
 
-function setPlayers(property, currentOrg, trimmed) {
-    // If the array is empty, push the first new player into the array
-    if (currentOrg[property].length === 0) {
-        currentOrg[property].push(new Player(trimmed));
-    }
-    else {
-        // Get the current player in the array (ie. index length -1)
-        let currentPlayer = currentOrg[property][currentOrg[property].length - 1];
-
-        // If the player's team is empty, set it
-        if (currentPlayer.team.length === 0) {
-            currentPlayer.team = trimmed;
-        }
-        // Otherwise, push a new player into the array
-        else {
-            currentOrg[property].push(new Player(trimmed));
-        }
-    }
+function setPlayer(property, currentOrg, name, team) {
+    currentOrg[property] = new Player(name.trim(), team.trim());
 }
 
-function setTeam(property, currentOrg, trimmed) {
-    currentOrg[property] = trimmed;
+function setPlayers(property, currentOrg, name, team) {
+    currentOrg[property].push(new Player(name.trim(), team.trim()));
 }
 
-function setNumber(property, currentOrgt, trimmed) {
-    currentOrg[property] = trimmed;
+function setTeam(property, currentOrg, team) {
+    currentOrg[property] = team.trim();
+}
+
+function setNumber(property, currentOrg, number) {
+    currentOrg[property] = number;
 }
