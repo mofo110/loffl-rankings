@@ -5,7 +5,7 @@
 There are two parts to this app:
 
 1. We first get the org chart.
-    1. Read the weekly org chart `./data/input_org_chart.txt`
+    1. Read the weekly org chart `./data/input_org_chart.csv`
     2. Write an output JSON file `./data/output-org-chart.json`
 
 2. We then get the rankings.
