@@ -152,7 +152,7 @@ function getTaxiOrgName(org, ranking) {
 }
 
 function playerMatch(ranking, player) {
-    if (player) {
+    if (player && !player.matched) {
         // Remove the asterisk from recent updates
         let orgLastName = player.name.replaceAll('*', '').toLowerCase();
         // Remove trailing position marker for TAXI players
@@ -172,9 +172,9 @@ function playerMatch(ranking, player) {
             const rankingLastName = match[2].trim();
             if (rankingLastName.includes(orgLastName)) {
                 // Next check if the teams match.
-                // NOTE: This logic would fail if you had the same last name
-                // playing the same position on the same team
+                // NOTE: This logic sets the HIGHEST ranking player for the same last name, position and team
                 if (RANKING_DEFINITIONS.TEAM_MAP[ranking.team].includes(player.team)) {
+                    player.matched = true;
                     return true;
                 }
             }
