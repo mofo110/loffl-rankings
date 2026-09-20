@@ -9,17 +9,17 @@ TE,*Johnson,NO,,TE,Fannin,Cle
 K,Butker,KC,,K,Dicker,LAC
 Def,Jacksonville,,,Def,Detroit,
 SpT,Seattle,,,SpT,Tampa Bay,
-T1,Etienne  RB,NO,,T1,Purdy  QB,SF
+T1,Etienne  RB,NO,,T1,Purdy  QB,SF
 T2,Mayfield  QB,TB,,T2,Odunze  WR,Chi
 T3,Washington  WR,Jax,,T3,,
-IR,*Bowers  TE LV,1,,IR,,
+IR,*Bowers  TE LV,2,,IR,,
 ,Picks Remaining,11,,,Picks Remaining,13
 ,Hot Shots,,,,Vision,
 QB,Jackson,Bal,,QB,Maye,NE
 RB,Walker,KC,,RB,Montgomery,Hou
 RB,Skattebo,NYG,,RB,Tuten,Jax
 WR,Chase,Cin,,WR,St. Brown,Det
-WR,Waddle,Den,,WR,Brown,NE
+WR,Waddle,Den,,WR,*Godwin,TB
 WR,Evans,SF,,WR,Sutton,Den
 TE,Warren,Ind,,TE,Kraft,GB
 K,Boswell,Pit,,K,Aubrey,Dal
@@ -27,8 +27,8 @@ Def,Houston,,,Def,Denver,
 SpT,NY Jets,,,SpT,Denver,
 T1,Lemon  WR,Phi,,T1,Nix  QB,Den
 T2,Price  RB,Sea,,T2,Dobbins  RB,Den
-T3,,,,T3,*Godwin  WR,TB
-IR,,,,IR,,
+T3,,,,T3,,
+IR,,,,IR,*Brown WR  NE,1
 ,Picks Remaining,13,,,Picks Remaining,12
 ,WFT,,,,Grumpy Grandpas,
 QB,Hurts,Phi,,QB,Stafford,LAR
@@ -41,7 +41,7 @@ TE,LaPorta,Det,,TE,Schultz,Hou
 K,McPherson,Cin,,K,Little,Jax
 Def,Pittsburgh,,,Def,Philadelphia,
 SpT,Houston,,,SpT,Buffalo,
-T1,Murray  QB,Min,,T1,Lawrence  QB,Jax
+T1,Murray  QB,Min,,T1,Lawrence  QB,Jax
 T2,Irving  RB,TB,,T2,Shakir  WR,Buf
 T3,,,,T3,Corum  RB,LAR
 IR,,,,IR,,
@@ -52,23 +52,23 @@ RB,McCaffrey,SF,,RB,Williams,Dal
 RB,Barkley,Phi,,RB,Hall,NYJ
 WR,London,Atl,,WR,Smith-Njigba,Sea
 WR,Higgins,Cin,,WR,Egbuka,TB
-WR,Wilson,NYJ,,WR,Stribling,SF
+WR,Wilson,NYJ,,WR,*Burden,Chi
 TE,McBride,Ari,,TE,Loveland,Chi
 K,Mevis,LAR,,K,Fairbairn,Hou
 Def,New England,,,Def,Seattle,
 SpT,Kansas City,,,SpT,Dallas,
 T1,Love  QB,GB,,T1,Herbert  QB,LAC
-T2,Stevenson  RB,NE,,T2,Burden  WR,Chi
+T2,Stevenson  RB,NE,,T2,*Coker  WR,Car
 T3,,,,T3,,
-IR,,,,IR,,
-,Picks Remaining,13,,,Picks Remaining,13
+IR,,,,IR,*Stribling WR SF,1
+,Picks Remaining,13,,,Picks Remaining,12
 ,Hawk Tuah,,,,Go-Gos,
 QB,Mahomes,KC,,QB,Daniels,Was
 RB,Henry,Bal,,RB,Achane,Mia
 RB,Williams,LAR,,RB,Love,Ari
 WR,Nacua,LAR,,WR,Lamb,Dal
 WR,Rice,KC,,WR,Flowers,Bal
-WR,McMillan,Car,,WR,Samual,SF
+WR,McMillan,Car,,WR,Samuel,SF
 TE,Likely,NYG,,TE,Kittle,SF
 K,Myers,Sea,,K,Pineiro,SF
 Def,LA Rams,,,Def,Minnesota,
