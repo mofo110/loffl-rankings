@@ -19,7 +19,7 @@ QB,Jackson,Bal,,QB,Shough,NO
 RB,Walker,KC,,RB,Montgomery,Hou
 RB,Skattebo,NYG,,RB,Tuten,Jax
 WR,Chase,Cin,,WR,St. Brown,Det
-WR,Waddle,Den,,WR,*Godwin,TB
+WR,Waddle,Den,,WR,*Golden,GB
 WR,Evans,SF,,WR,Sutton,Den
 TE,Warren,Ind,,TE,Kraft,GB
 K,Boswell,Pit,,K,Aubrey,Dal
@@ -27,9 +27,9 @@ Def,Houston,,,Def,Denver,
 SpT,NY Jets,,,SpT,Denver,
 T1,Lemon  WR,Phi,,T1,Nix  QB,Den
 T2,Price  RB,Sea,,T2,Dobbins  RB,Den
-T3,,,,T3,,
+T3,,,,T3,*Godwin. WR,TB,
 IR,,,,IR,*Brown WR  NE,1
-,Picks Remaining,13,,,Picks Remaining,11
+,Picks Remaining,13,,,Picks Remaining,10
 ,WFT,,,,Grumpy Grandpas,
 QB,Hurts,Phi,,QB,Stafford,LAR
 RB,Robinson,Atl,,RB,Cook,Buf
