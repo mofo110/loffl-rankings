@@ -21,7 +21,7 @@ RB,Skattebo,NYG,,RB,Tuten,Jax
 WR,Chase,Cin,,WR,St. Brown,Det
 WR,Waddle,Den,,WR,*Golden,GB
 WR,Evans,SF,,WR,Sutton,Den
-TE,Warren,Ind,,TE,Kraft,GB
+TE,Warren,Ind,,TE,Kincaid,Buf
 K,Boswell,Pit,,K,Aubrey,Dal
 Def,Houston,,,Def,Denver,
 SpT,NY Jets,,,SpT,Denver,
@@ -29,12 +29,12 @@ T1,Lemon  WR,Phi,,T1,Nix  QB,Den
 T2,Price  RB,Sea,,T2,Dobbins  RB,Den
 T3,,,,T3,*Godwin. WR,TB,
 IR,,,,IR,*Brown WR  NE,1
-,Picks Remaining,13,,,Picks Remaining,10
+,Picks Remaining,13,,,Picks Remaining,9
 ,WFT,,,,Grumpy Grandpas,
 QB,Hurts,Phi,,QB,Stafford,LAR
 RB,Robinson,Atl,,RB,Cook,Buf
 RB,Jeanty,LV,,RB,Brown,Cin
-WR,Jefferson,Min,,WR,Pickens,Dal
+WR,*Wilson,Ari,,WR,Pickens,Dal
 WR,Olave,NO,,WR,Williams,Det
 WR,Watson,GB,,WR,Moore,Buf
 TE,LaPorta,Det,,TE,Schultz,Hou
@@ -43,7 +43,7 @@ Def,Pittsburgh,,,Def,Philadelphia,
 SpT,Houston,,,SpT,Buffalo,
 T1,Murray  QB,Min,,T1,Lawrence  QB,Jax
 T2,Irving  RB,TB,,T2,Downs  WR,Ind
-T3,Wilson  WR,Ari,,T3,Corum  RB,LAR
+T3,*Jefferson  WR,Min,,T3,Corum  RB,LAR
 IR,,,,IR,,
 ,Picks Remaining,12,,,Picks Remaining,11
 ,Capsters,,,,Manly Men,
